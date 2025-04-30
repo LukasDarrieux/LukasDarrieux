@@ -45,8 +45,6 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-darrieux-5683a9167)  
 - 🧑‍💻 [GitHub](https://github.com/LukasDarrieux)
 
----
-
-## 📈 GitHub Stats
-
-![Lucas Darrieux GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukasDarrieux&show_icons=true&theme=dracula)
+## 💻 Também tenho conhecimento nas tecnologias e linguagens de progrmação
+- Java, PHP, C, C++, Visual Basic, Visual Basic 6.0, Delphi
+- Criação de relatórios utilizando FastReport e ReportViewer .NET
