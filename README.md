@@ -8,34 +8,41 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 
 - **Back-end:** ASP.NET Core, .NET Core, Entity Framework, WCF, RabbitMQ, Web APIs
 - **Front-end:** React.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, jQuery, AJAX
-- **Bancos de dados:** SQL Server, Oracle, PostgreSQL, MySQL, Firebird, SQLite
-- **Outros:** Docker, Git, GitHub, SOAP/REST APIs, Integrações de sistemas
+- **Bancos de dados:** SQL Server, Oracle, PostgreSQL, MySQL, Firebird, SQLite, Access
+- **Testes Unitários:** Microsoft Visual Studio MS Test, Unit Test Project
+- **Outros:** Docker, Git, GitHub, SVN, SOAP/REST APIs, Integrações de sistemas
 
 ---
 
 ## 🧠 Atualmente focado em:
-- Desenvolvimento de **Web APIs RESTful**
-- Aplicações com **ASP.NET Core**
+- Desenvolvimento de **Web APIs RESTful** 
+- Aplicações com **ASP.NET Core | ASP .NET Core MVC | ASP .NET Core API | React JS**
 - Integrações via mensageria com **RabbitMQ**
 - Arquitetura baseada em **microserviços**
-- Melhoria contínua de performance e manutenibilidade de sistemas
+- Testes unitários **MS Test - Project Test | Unit Test Project**
+- Melhoria contínua de performance e manutenção de sistemas
 
 ---
 
 ## 📍 Experiência profissional
 
-- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (2022 - atual)  
-  Desenvolvimento de software para o setor de RH, utilizando C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
+- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - atual)  
+  Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
+- 🏢 **LG lugar de gente** – Desenvolvedor .NET Júnior (04/2021 - 03/2022) 
+  Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
 
-- 🏢 **SD Sistemas** – Programador Júnior / Trainee  
+- 🏢 **SD Sistemas** – Programador Júnior (12/2020 - 04/2021)
+  Criação de sistemas ERP e ponto de venda com emissão fiscal, utilizando C++, Delphi, Firebird, integração com APIs REST e SOAP.
+- 🏢 **SD Sistemas** – Programador Trainee (08/2018 - 12/2020)
   Criação de sistemas ERP e ponto de venda com emissão fiscal, utilizando C++, Delphi, Firebird, integração com APIs REST e SOAP.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas — FACOS (2018–2020)
-- 🎓 Técnico em Tecnologia da Informação — Escola Politécnica Pedrosa (2015–2016)
+- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas — FACOS - Unicnec (2018–2020)
+- 🎓 Técnico em Tecnologia da Informação — Escola Politécnica Araruama Antônio Luiz Pedrosa (2015–2016)
+  Projeto de TCC Curso Técnico - Rede Social voltada para músicos desenvolvida com **PHP, MySQL, HTML, CSS, Javascript, JQuery**
 
 ---
 
@@ -48,3 +55,4 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 ## 💻 Também tenho conhecimento nas tecnologias e linguagens de progrmação
 - Java, PHP, C, C++, Visual Basic, Visual Basic 6.0, Delphi
 - Criação de relatórios utilizando FastReport e ReportViewer .NET
+- IDE RAD Studio embarcadero
