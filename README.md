@@ -26,10 +26,10 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 
 ## 📍 Experiência profissional
 
-- 🏢 **Stefanini** - Desenvolvedor .NET Pleno (09/2025 - atual)
+- 🏢 **Stefanini** – Desenvolvedor .NET Pleno (09/2025 - atual)
   Desenvolvimento de software para o setor de marketplace, utilizando .NET Core 9.0, C#, PostgreSQL, RabbitMQ, Docker, Testes unitários, Testes de integração, Elasticsearch, ReactJS, Typescript, criação de API RESTFull, CQRS, DDD, Elasticsearch, Kibana, GitLab, CI e CD. 
 
-- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - 09/2025)  
+- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - 09/2025)
   Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
 - 🏢 **LG lugar de gente** – Desenvolvedor .NET Júnior (04/2021 - 03/2022) 
   Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
