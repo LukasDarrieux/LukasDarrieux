@@ -6,11 +6,11 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 
 ## 💻 Tecnologias que utilizo
 
-- **Back-end:** ASP.NET Core, .NET Core, Entity Framework, WCF, RabbitMQ, Web APIs
+- **Back-end:** ASP.NET Core, .NET Core, Entity Framework, Dapper, WCF, RabbitMQ, Web APIs
 - **Front-end:** React.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, jQuery, AJAX
 - **Bancos de dados:** SQL Server, Oracle, PostgreSQL, MySQL, Firebird, SQLite, Access
 - **Testes Unitários:** Microsoft Visual Studio MS Test, Unit Test Project
-- **Outros:** Docker, Git, GitHub, SVN, SOAP/REST APIs, Integrações de sistemas
+- **Outros:** Docker, Git, GitHub, GitLab, SVN, SOAP/REST APIs, Integrações de sistemas
 
 ---
 
@@ -26,7 +26,10 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 
 ## 📍 Experiência profissional
 
-- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - atual)  
+- 🏢 **Stefanini** - Desenvolvedor .NET Pleno (09/2025 - atual)
+  Desenvolvimento de software para o setor de marketplace, utilizando .NET Core 9.0, C#, PostgreSQL, RabbitMQ, Docker, Testes unitários, Testes de integração, Elasticsearch, ReactJS, Typescript, criação de API RESTFull, CQRS, DDD, Elasticsearch, Kibana, GitLab, CI e CD. 
+
+- 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - 09/2025)  
   Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
 - 🏢 **LG lugar de gente** – Desenvolvedor .NET Júnior (04/2021 - 03/2022) 
   Desenvolvimento de software para o setor de RH, utilizando .NET Framework, C#, VB.NET, Oracle, SQL Server e criação de serviços SOAP com WCF.
