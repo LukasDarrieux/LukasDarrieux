@@ -26,7 +26,10 @@ Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura
 
 ## 📍 Experiência profissional
 
-- 🏢 **Stefanini** – Desenvolvedor .NET Pleno (09/2025 - atual)
+- 🏢 **Benner** – Desenvolvedor .NET Senior (05/2026 - atual)
+  Desenvolvimento de software para o setor de Saúde e Planos de Saúde utilizando a plataforma .NET, C#, SQL Server, Oracle, ASP .NET MVC. 
+
+- 🏢 **Stefanini** – Desenvolvedor .NET Pleno (09/2025 - 05/2026)
   Desenvolvimento de software para o setor de marketplace, utilizando .NET Core 9.0, C#, PostgreSQL, RabbitMQ, Docker, Testes unitários, Testes de integração, Elasticsearch, ReactJS, Typescript, criação de API RESTFull, CQRS, DDD, Elasticsearch, Kibana, GitLab, CI e CD. 
 
 - 🏢 **LG lugar de gente** – Desenvolvedor .NET Pleno (04/2022 - 09/2025)
