@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Lucas Darrieux!
 
-Sou **Desenvolvedor .NET Pleno** com foco em tecnologias **web** e **arquitetura de microserviços**. Tenho experiência no desenvolvimento de aplicações modernas, escaláveis e de alta performance utilizando o ecossistema .NET e ferramentas complementares como RabbitMQ, Docker e bancos de dados relacionais.
+Sou **Desenvolvedor .NET Senior** com foco em tecnologias **web** e **arquitetura de microserviços**. Tenho experiência no desenvolvimento de aplicações modernas, escaláveis e de alta performance utilizando o ecossistema .NET e ferramentas complementares como RabbitMQ, Docker e bancos de dados relacionais.
 
 ---
 
